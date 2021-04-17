@@ -1,0 +1,47 @@
+    
+body {
+    background-color: rgb(229, 192, 143);
+}
+
+.contenedor {
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.table {
+    display: inline-flex;
+}
+
+img {
+    width: 250px;
+    height: 200px;
+    margin-top: 70px;
+}
+
+
+h1 {
+    font-family: 'Roboto';
+    color: rgb(110, 66, 9); 
+}
+
+.text {
+    margin-left: 50px;
+    font-family: 'Roboto';
+    text-align: justify;
+}
+
+.text-tributo{
+    text-align: center;
+}
+
+.label {
+    font-family: 'Roboto';
+    color: rgb(110, 66, 9);
+    font-weight: bold;
+}
+
+.form {
+    margin-left: 250px;
+    margin-top: 20px;
+}
